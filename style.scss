@@ -3,34 +3,35 @@
 
 @font-face {
   font-family: 'NowRegular';
-  src: url('/fonts/now-regular.eot'); /* IE 9 Compatibility Mode */
-  src: url('/fonts/now-regular.eot?#iefix') format('embedded-opentype'),
-    /* IE < 9 */ url('/fonts/now-regular.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('/fonts/now-regular.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */ url('/fonts/now-regular.ttf')
-      format('truetype'),
-    /* Safari, Android, iOS */ url('/fonts/now-regular.svg#now-regular')
+  src: url('./fonts/now-regular.eot'); /* IE 9 Compatibility Mode */
+  src: url('./fonts/now-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE < 9 */ url('./fonts/now-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('./fonts/now-regular.woff') format('woff'),
+    /* Firefox >= 3.6, any other modern browser */
+      url('./fonts/now-regular.ttf') format('truetype'),
+    /* Safari, Android, iOS */ url('./fonts/now-regular.svg#now-regular')
       format('svg'); /* Chrome < 4, Legacy iOS */
 }
 @font-face {
   font-family: 'NexaBold';
-  src: url('/fonts/nexabold.eot'); /* IE 9 Compatibility Mode */
-  src: url('/fonts/nexabold.eot?#iefix') format('embedded-opentype'),
-    /* IE < 9 */ url('/fonts/nexabold.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('/fonts/nexabold.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */ url('/fonts/nexabold.ttf')
+  src: url('./fonts/nexabold.eot'); /* IE 9 Compatibility Mode */
+  src: url('./fonts/nexabold.eot?#iefix') format('embedded-opentype'),
+    /* IE < 9 */ url('./fonts/nexabold.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('./fonts/nexabold.woff') format('woff'),
+    /* Firefox >= 3.6, any other modern browser */ url('./fonts/nexabold.ttf')
       format('truetype'),
-    /* Safari, Android, iOS */ url('/fonts/nexabold.svg#nexabold') format('svg'); /* Chrome < 4, Legacy iOS */
+    /* Safari, Android, iOS */ url('./fonts/nexabold.svg#nexabold')
+      format('svg'); /* Chrome < 4, Legacy iOS */
 }
 @font-face {
   font-family: 'NowMedium';
-  src: url('/fonts/now-medium.eot'); /* IE 9 Compatibility Mode */
-  src: url('/fonts/now-medium.eot?#iefix') format('embedded-opentype'),
-    /* IE < 9 */ url('/fonts/now-medium.woff2') format('woff2'),
-    /* Super Modern Browsers */ url('/fonts/now-medium.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */ url('/fonts/now-medium.ttf')
+  src: url('./fonts/now-medium.eot'); /* IE 9 Compatibility Mode */
+  src: url('./fonts/now-medium.eot?#iefix') format('embedded-opentype'),
+    /* IE < 9 */ url('./fonts/now-medium.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('./fonts/now-medium.woff') format('woff'),
+    /* Firefox >= 3.6, any other modern browser */ url('./fonts/now-medium.ttf')
       format('truetype'),
-    /* Safari, Android, iOS */ url('/fonts/now-medium.svg#now-medium')
+    /* Safari, Android, iOS */ url('./fonts/now-medium.svg#now-medium')
       format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
